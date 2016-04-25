@@ -1,0 +1,10 @@
+Object orientation
+  classes
+  information hiding
+
+Basic c++
+  console out
+  operators
+  
+  
+  
